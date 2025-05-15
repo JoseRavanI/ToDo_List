@@ -35,13 +35,6 @@ Aplicação de lista de tarefas (Todo List) moderna, construída com HTML, CSS e
 
     Local Storage (armazenamento offline)
 
-📦 Como usar
-
-    Clone o repositório:
-
-git clone https://github.com/seu-usuario/todo-avancado.git
-
-    Abra o projeto no navegador:
 
 Você pode simplesmente abrir o arquivo index.html com um navegador moderno.
 💾 Salvamento Automático
